@@ -1,7 +1,7 @@
 ---
 name: 주기(Sprint)>개인별 템플릿
 about: 주기마다 각자 테스트 통과 여부와 기타 진행상황을 기록하기 위한 이슈 템플릿
-title: ''
+title: Sprint 1 - (공부자 이름) / (시작 월.일) ~ (끝나면 종료 월.일)
 labels: sprint
 assignees: ''
 
